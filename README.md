@@ -13,5 +13,5 @@
 * Administrador: es el perfil habilitado para realizar las anteriores funciones y modificar los perfiles anteriores.
 
 ### Link Mockup:
-[Link]
+<Link>(https://marvelapp.com/5ii4ed6)
 
