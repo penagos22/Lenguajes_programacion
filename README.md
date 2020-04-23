@@ -1,2 +1,2 @@
-# Lenguajes_programacion
-Tecnología de desarrollo de software- Lenguajes de programcion corte III
+# Lenguajes de Programación
+Code Blocks (Preformatted text): | First Header | Second Header | | ------------- | ------------- | | Content Cell | Content Cell | | Content Cell | Content Cell | ####Javascript　 ```javascript function test(){ console.log("Hello world!"); } (function(){ var box = function(){ return box.fn.init(); }; box.prototype = box.fn = { init : function(){ console.log('box.init()'); return this; }, add : function(str){ alert("add", str); return this; }, remove : function(str){ alert("remove", str); return this; } }; box.fn.init.prototype = box.fn; window.box =box; })(); var testBox = box" data-alt />
