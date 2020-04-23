@@ -25,4 +25,5 @@ R3 | Menú | El menú es considerados como una combinación de sub productos com
 
 
 ### Diagram de clases:
+![uml](https://user-images.githubusercontent.com/64174795/80048827-e8185d00-84d6-11ea-89ab-a96151dfaa35.png)
 
