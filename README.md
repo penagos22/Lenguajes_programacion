@@ -24,6 +24,6 @@ R2 | Sub Producto | Los subproductos son aquellos componentes que integran un me
 R3 | Menú | El menú es considerados como una combinación de sub productos como por ejemplo, el menú esta compuesto de sopa, carne asada, arroz, frijol, ensalada y jugo de mora.  El mesero podrá realizar diferentes combinaciones y así crear un nuevo menú, o modificar -eliminar algún subproducto. |
 
 
-### Diagram de clases:
+### Diagrama de clases:
 ![uml](https://user-images.githubusercontent.com/64174795/80048827-e8185d00-84d6-11ea-89ab-a96151dfaa35.png)
 
