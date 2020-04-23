@@ -14,4 +14,15 @@
 
 ### Link Mockup:
 <Link>(https://marvelapp.com/5ii4ed6)
+  
+### Requerimientos:
+
+| Identificador  | Nombre  | Descripcion |
+| :------------ |:---------------:| -----:|
+R1 | Creación de Usuarios | La aplicación permitirá crear, consultar, actualizar y eliminar nuevos usuarios. Los usuarios son únicamente los empleados del restaurante.|
+R2 | Sub Producto | Los subproductos son aquellos componentes que integran un menú. Por ejemplo, un menú lo compone la sopa, el principio y el jugo, en este caso la sopa seria un subproducto. |
+R3 | Menú | El menú es considerados como una combinación de sub productos como por ejemplo, el menú esta compuesto de sopa, carne asada, arroz, frijol, ensalada y jugo de mora.  El mesero podrá realizar diferentes combinaciones y así crear un nuevo menú, o modificar -eliminar algún subproducto. |
+
+
+### Diagram de clases:
 
